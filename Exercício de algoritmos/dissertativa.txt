@@ -1,0 +1,12 @@
+Exercício de algoritmos
+
+Dissertativa
+
+Leia armazene o número n que deseja multiplicar por 9 #Entrada
+Subtrair n-1 e armazena como o primeiro dígito #Processamento
+Subtrair 10-n e armazene como segundo dígito n2 #Processamento
+Realize a expressão (n1 *  10) + n2 e armazene como resultado final r #Processamento
+Apresente r (o resultado final) e encerre o programa #Saída
+
+9*2= 2-1, 10-2
+9*2=1*10+8
